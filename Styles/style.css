@@ -1,0 +1,34 @@
+#Sign{
+	display: block;
+	text-align: right;
+}
+
+.Main img{
+	display: block;
+	margin: 0 auto;
+	
+	
+}
+
+#Query{
+	display: block;
+	margin: 0 auto;
+}
+
+.Main{
+	
+	position: fixed;
+	top: 30%;
+	left: 40%;
+}
+
+.submit {
+	
+	text-align: center;
+
+
+
+}
+
+
+}
