@@ -1,34 +1,51 @@
-#Sign{
-	display: block;
-	text-align: right;
-}
-
-.Main img{
-	display: block;
-	margin: 0 auto;
-	
-	
-}
-
-#Query{
-	display: block;
-	margin: 0 auto;
-}
-
-.Main{
-	
-	position: fixed;
-	top: 30%;
-	left: 40%;
-}
-
-.submit {
-	
+.Main
+{	
 	text-align: center;
+	margin-top: 10%;
+	font-family: sans-serif;
+	
+}
 
+.navbar{
+	text-align: right;
+	word-spacing:  10px;
+	font-weight: 100;
+	font-family: sans-serif;
+}
 
+#Sign{
+	background-color: #4285f4;
+	color: white;
+	padding: 0 12px;
 
 }
 
+.Footer{
+	
+	word-spacing: 20px;
+	background-color: rgb(242,242,242);
+	position: fixed;
+	bottom: 0;
+	width: 100%;
 
+}
+
+.Footer li{
+	
+	list-style-type: none;
+	display: inline;
+}
+
+.Footer ul{
+	display: inline;
+}
+
+#llink{
+	float: left;
+	display: inline-block;
+}
+#rlink {
+	float: right;
+	display: inline-block;
+	padding-right: 3%;
 }
